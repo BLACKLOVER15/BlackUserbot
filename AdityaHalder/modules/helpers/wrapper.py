@@ -67,8 +67,8 @@ def inline_wrapper(func):
                 button = [
                     [
                         InlineKeyboardButton(
-                            "💥 Deploy Genius Userbot ✨",
-                            url=f"https://github.com/AdityaHalder/Genius-Userbot"
+                            "💥 Deploy Black Lover Userbot ✨",
+                            url=f"https://github.com/BLACKLOVER15/BlackUserbot"
                         )
                     ]
                 ]
@@ -78,9 +78,9 @@ def inline_wrapper(func):
                     results=[
                         (
                             InlineQueryResultPhoto(
-                                photo_url=f"https://telegra.ph/file/027283ee9defebc3298b8.png",
+                                photo_url=f"https://te.legra.ph/file/c1153442e6b191b5de461.jpg",
                                 title="🥀 Genius Userbot ✨",
-                                thumb_url=f"https://telegra.ph/file/027283ee9defebc3298b8.png",
+                                thumb_url=f"https://te.legra.ph/file/c1153442e6b191b5de461.jpg",
                                 description=f"🌷 Deploy Your Own Genius-Userbot 🌿...",
                                 caption=f"<b>🥀 Welcome » To » Genius 🌷\n✅ Userbot {__version__} ✨...</b>",
                                 reply_markup=InlineKeyboardMarkup(button),
@@ -98,7 +98,7 @@ def inline_wrapper(func):
                             InlineQueryResultArticle(
                                 title="",
                                 input_message_content=InputTextMessageContent(
-                                    f"||**🥀 Please, Deploy Your Own Genius Userbot❗...\n\nRepo:** <i>https://github.com/AdityaHalder/Genius-Userbot/</i>||"
+                                    f"||**🥀 Please, Deploy Your Own Genius Userbot❗...\n\nRepo:** <i>https://github.com/BLACKLOVER15/BlackUserbot/</i>||"
                                 ),
                             )
                         )
