@@ -1,4 +1,4 @@
-# Powered By // @AdityaHalder //
+# Powered By // @Blacklover_uff //
 
 __NAME__ = "Raids"
 __MENU__ = """
