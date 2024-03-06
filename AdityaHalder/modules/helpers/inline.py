@@ -26,7 +26,7 @@ Genius Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Black Lover Arena](https://t.me/Exampur20).**
+🌷Powered By : [Black Lover Arena](https://t.me/Exampur15).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -47,7 +47,7 @@ Genius Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Black Lover Arena](https://t.me/Exampur20).**""",
+🌷Powered By : [Black Lover Arena](https://t.me/Exampur15).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
