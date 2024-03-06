@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/BLACKLOVER15/BlackUserbot"><img src="https://te.legra.ph/file/03e1afa53c13ca4352e17.jpg" height="270" width="480" alt="Genius-Userbot"/></a>
+<a href="https://github.com/BLACKLOVER15/BlackUserbot"><img src="https://te.legra.ph/file/4b91ba6ee72587d382c61.jpg" height="270" width="480" alt="Genius-Userbot"/></a>
 </p>
 
 <p align="center">
