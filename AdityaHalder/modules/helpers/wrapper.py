@@ -81,8 +81,8 @@ def inline_wrapper(func):
                                 photo_url=f"https://te.legra.ph/file/c1153442e6b191b5de461.jpg",
                                 title="🥀 Genius Userbot ✨",
                                 thumb_url=f"https://te.legra.ph/file/c1153442e6b191b5de461.jpg",
-                                description=f"🌷 Deploy Your Own Genius-Userbot 🌿...",
-                                caption=f"<b>🥀 Welcome » To » Genius 🌷\n✅ Userbot {__version__} ✨...</b>",
+                                description=f"🌷 Deploy Your Own BlackUserbot 🌿...",
+                                caption=f"<b>🥀 Welcome » To » Black 🌷\n✅ Userbot {__version__} ✨...</b>",
                                 reply_markup=InlineKeyboardMarkup(button),
                             )
                         )
@@ -98,7 +98,7 @@ def inline_wrapper(func):
                             InlineQueryResultArticle(
                                 title="",
                                 input_message_content=InputTextMessageContent(
-                                    f"||**🥀 Please, Deploy Your Own Genius Userbot❗...\n\nRepo:** <i>https://github.com/BLACKLOVER15/BlackUserbot/</i>||"
+                                    f"||**🥀 Please, Deploy Your Own Black Userbot❗...\n\nRepo:** <i>https://github.com/BLACKLOVER15/BlackUserbot/</i>||"
                                 ),
                             )
                         )
